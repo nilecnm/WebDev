@@ -1,2 +1,2 @@
 # WebDev
-Front end developer
+Try to be Frontend Developer with ReactJS
